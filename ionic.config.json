@@ -1,0 +1,7 @@
+{
+  "name": "avancoapp_front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
